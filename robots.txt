@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /vorher/
+Disallow: /Fotos/
+Disallow: /Rechnungen/
+Disallow: /Tabellen/
+Disallow: /Texte/
+Disallow: /Sonstiges/

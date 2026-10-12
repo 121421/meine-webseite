@@ -1,0 +1,28 @@
+# Meine Website
+
+> Eine noch nicht vollständig ausgefüllte Website-Vorlage für Beratung, Workshops und Projektbegleitung. Angebote, Preise und Öffnungszeiten sind Beispiele und keine bestätigten Geschäftsangaben.
+
+## Wer
+- Seitenname: Meine Website
+- Anbieter: [Anbietername eintragen]
+- Zielgruppe: [Zielgruppe eintragen]
+
+## Was
+Die Seite stellt beispielhaft ein Erstgespräch, persönliche Beratung, einen Kompakt-Workshop und ein Projektpaket vor.
+- Tatsächliches Angebot: [Leistungen bestätigen und eintragen]
+- Preise und Öffnungszeiten: [Echte Angaben eintragen]
+Die FAQ behandeln Zielgruppe, Kosten, Terminvereinbarung, Beratungsort und Vorbereitung. Die Antworten enthalten noch Platzhalter.
+
+## Wo
+- Vom Seiteninhaber genannter Ortsbezug: Stuttgart
+- Tatsächlicher Standort oder Einzugsbereich: [Stuttgart als Standort oder Einzugsbereich bestätigen]
+- Besuchsadresse: [Straße, Hausnummer, Postleitzahl und Ort eintragen]
+- Öffentliche Website-Adresse: [HTTPS-Adresse nach Veröffentlichung eintragen]
+
+## Kontakt
+- E-Mail: [E-Mail-Adresse eintragen]
+- Telefon: [Telefonnummer eintragen]
+- Terminvereinbarung: [Buchungsweg eintragen]
+
+## Hinweis zur Einordnung
+Platzhalter und Beispielangaben dürfen nicht als echte Anbieterinformationen ausgegeben werden. Diese Zusammenfassung belegt weder einen Geschäftsstandort in Stuttgart noch die Verfügbarkeit der Beispielangebote.
