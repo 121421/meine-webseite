@@ -16,3 +16,16 @@
 .motion-ready .review-card.is-visible{transform:none}
 @media(max-width:1000px){.reviews-grid{grid-template-columns:1fr}.review-card{padding:26px}}
 @media(prefers-reduced-motion:reduce){.motion-ready .review-card{opacity:1;transform:none;transition:none}}
+/* Kontaktformular */
+.contact-form-wrap{grid-column:1/-1;border-top:1px solid var(--line);padding-top:35px;min-width:0}
+.contact-form-wrap h3{font-family:'Palatino Linotype',Palatino,serif;font-size:32px;margin:0 0 12px}
+.contact-form-wrap>p{color:var(--muted);max-width:65ch}
+.contact-form{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:28px}
+.form-field{display:flex;flex-direction:column;gap:8px;min-width:0}
+.form-field:has(textarea){grid-column:1/-1}
+.form-field label{font-weight:600;font-size:14px}
+.form-field input,.form-field textarea{box-sizing:border-box;width:100%;min-width:0;padding:14px;border:1px solid var(--accent);border-radius:5px;background:#fffaf2;color:var(--ink);font:inherit}
+.form-field textarea{resize:vertical}
+.form-field input:focus-visible,.form-field textarea:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+.contact-form .button{justify-self:start;align-self:end;cursor:pointer;font:inherit}
+@media(max-width:700px){.contact-form{grid-template-columns:1fr}.form-field:has(textarea){grid-column:auto}}
